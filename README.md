@@ -1,4 +1,4 @@
-# thinkster-django-angular-boilerplate
+# a fork for pratices of thinkster-django-angular-boilerplate
 
 ## Installation
 
